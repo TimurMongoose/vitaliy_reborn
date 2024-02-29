@@ -131,11 +131,12 @@ main{
   }
 }
 
-@media only screen and (min-width : 1400px){
+@media only screen and (min-width: 1600px){
   .sitebar {
     width: 25vw;
     height: 90vh;
     font-size: xx-large;
+    border-radius: 10px;
   }
   .sitebar__img img{
     height: 80px;
@@ -148,5 +149,5 @@ main{
     .profile__photo img{
       width: 90px;
       height: 90px;
-  }    
+  }
 }
